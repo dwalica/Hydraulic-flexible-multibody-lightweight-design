@@ -6,7 +6,7 @@ This project investigates how lightweight design influences structural dynamics 
 - Run RigidFlexOptLB_Comparison.py for rigid and flexible optimised lift boom analysis.
 
 ## Dependencies 
-- Exudyn (https://exudyn.readthedocs.io/en/v1.9.83.dev1/)
+- Exudyn (https://exudyn.readthedocs.io/en/v1.10.0/)
 - numpy stl (https://pypi.org/project/numpy-stl/)
 - Abaqus (https://www.3ds.com/products/simulia/abaqus)
 
